@@ -15,7 +15,7 @@ export default function Home() {
 
   <div className="container">
     <div className="title" />
-    <img
+    <Image
       src="Images\title.png"
       alt="Image"
       className="image"
@@ -36,7 +36,7 @@ export default function Home() {
         <div className="left-heading">Get Your Vitamins &amp; Minerals </div>
         <button className="explore-button">Explore</button>
       </div>
-      <img
+      <Image
         src="Images\OIP_preview_rev_1.png"
         alt="Center Image"
         className="center-image"
@@ -127,7 +127,7 @@ export default function Home() {
     <div className="big-heading">New Arrivals</div>
     <div className="image-container">
       <div className="image-item">
-        <img
+        <Image
           src="Images\im1.png"
           alt="Image 1"
           className="image1"
@@ -136,7 +136,7 @@ export default function Home() {
         <div className="image-name">Voluptas assumenda est</div>
       </div>
       <div className="image-item">
-        <img
+        <Image
           src="Images\im2.png"
           alt="Image 2"
           className="image1"
@@ -145,7 +145,7 @@ export default function Home() {
         <div className="image-name">Pamol Film Coated Tablet</div>
       </div>
       <div className="image-item">
-        <img
+        <Image
           src="Images\product-6-400x400.png.png"
           alt="Image 3"
           className="image1"
@@ -154,7 +154,7 @@ export default function Home() {
         <div className="image-name">Maca Root Capsules</div>
       </div>
       <div className="image-item">
-        <img
+        <Image
           src="Images\im3.png"
           alt="Image 4"
           className="image1"
@@ -170,7 +170,7 @@ export default function Home() {
   <div className="violet-section">
     <div className="row">
       <div className="left-content">
-        <img
+        <Image
           src="Images\Picture-4-1.png.png"
           alt="Left Image"
           className="section-image"
@@ -181,7 +181,7 @@ export default function Home() {
         <h2 className="big-heading">Supercharge Your Health</h2>
         <p>
           {" "}
-          Adjacent to the Elbrit Health Center, Eve's Pharmacy brings you the
+          Adjacent to the Elbrit Health Center, Eves Pharmacy brings you the
           best in medicines and healthcare products at an accessible location -
           with a wide range of choices including products made right here in
           India! When you shop at Eve Pharmacy, you can trust in our quality -
@@ -190,7 +190,7 @@ export default function Home() {
           needs!
         </p>
         <h5>
-          We offer choice, reliability and value That’s what makes us better
+          We offer choice, reliability and value Thats what makes us better
         </h5>
         <hr className="divider" />
         <a href="#" className="about-us-button">
@@ -215,7 +215,7 @@ export default function Home() {
         </a>
       </div>
       <div className="right-content">
-        <img
+        <Image
           src="Images\Picture5.png.png"
           alt="Right Image"
           className="section-image"
@@ -224,7 +224,7 @@ export default function Home() {
     </div>
     <div className="row">
       <div className="left-content">
-        <img
+        <Image
           src="Images\im6.png"
           alt="Left Image"
           className="section-image"
@@ -234,7 +234,7 @@ export default function Home() {
         <h3 className="small-heading">BEST OFFERS</h3>
         <h2 className="big-heading">Start Feeling Better</h2>
         <p>
-          Don't wait - get the right medicine and the right time. Our shelves
+          Dont wait - get the right medicine and the right time. Our shelves
           are stocked and ready to fulfil your needs so that you can start
           feeling better today!
         </p>
@@ -257,7 +257,7 @@ export default function Home() {
     <div className="row top-images">
       <div className="col-md-6">
         <div className="image-container">
-          <img
+          <Image
             src="Images\h2-b1.jpg.png"
             alt="Image 1"
             className="overlay-image"
@@ -268,7 +268,7 @@ export default function Home() {
       </div>
       <div className="col-md-6">
         <div className="image-container">
-          <img
+          <Image
             src="Images\bn2-2.jpg.png"
             alt="Image 2"
             className="overlay-image"
@@ -281,7 +281,7 @@ export default function Home() {
     <div className="row bottom-images">
       <div className="col-md-4">
         <div className="image-container">
-          <img
+          <Image
             src="Images\bn2-3.jpg.png"
             alt="Image 3"
             className="overlay-image"
@@ -294,7 +294,7 @@ export default function Home() {
       </div>
       <div className="col-md-4">
         <div className="image-container">
-          <img
+          <Image
             src="Images\bn2-4.jpg.png"
             alt="Image 4"
             className="overlay-image"
@@ -305,7 +305,7 @@ export default function Home() {
       </div>
       <div className="col-md-4">
         <div className="image-container">
-          <img
+          <Image
             src="Images\bn2-5.jpg.png"
             alt="Image 5"
             className="overlay-image"
@@ -350,7 +350,7 @@ export default function Home() {
     <div className="row justify-content-center">
       <div className="col-md-3">
         <div className="image-wrapper">
-          <img
+          <Image
             src="Images\blog3-450x580.jpg.png"
             alt="Image 1"
           />
@@ -360,7 +360,7 @@ export default function Home() {
       </div>
       <div className="col-md-3">
         <div className="image-wrapper">
-          <img
+          <Image
             src="Images\blog2-450x580.jpg.png"
             alt="Image 2"
           />
@@ -370,7 +370,7 @@ export default function Home() {
       </div>
       <div className="col-md-3">
         <div className="image-wrapper">
-          <img
+          <Image
             src="Images\blog3-450x580.jpg.png"
             alt="Image 3"
           />
@@ -382,7 +382,7 @@ export default function Home() {
       </div>
       <div className="col-md-3">
         <div className="image-wrapper">
-          <img
+          <Image
             src="Images\blog2-450x580.jpg.png"
             alt="Image 4"
           />
@@ -412,7 +412,7 @@ export default function Home() {
           </div>
         </div>
         <div className="col-md-6">
-          <img
+          <Image
             src="Images\f2-1.png.png"
             alt="Subscription Image"
             className="right-image"
@@ -443,7 +443,7 @@ export default function Home() {
   <div className="container-fluid dark-blue-background">
     <div className="row four-portions">
       <div className="col-md-3 portion">
-        <img
+        <Image
           src="Images\title.png"
           alt="Company Photo"
           className="company-photo"
@@ -471,15 +471,15 @@ export default function Home() {
       <div className="col-md-3 portion">
         <h4>Galleries</h4>
         <div className="gallery">
-          <img
+          <Image
             src="Images\Rectangle-1240-1.jpg.png"
             alt="Gallery Image 1"
           />
-          <img
+          <Image
             src="Images\Rectangle-1241-1.jpg.png"
             alt="Gallery Image 2"
           />
-          <img
+          <Image
             src="Images\Rectangle-1242-2.jpg.png"
             alt="Gallery Image 3"
           />
@@ -487,11 +487,11 @@ export default function Home() {
             src="Images\Rectangle-1243-1.jpg.png"
             alt="Gallery Image 4"
           />
-          <img
+          <Image
             src="Images\Rectangle-1244-1.jpg.png"
             alt="Gallery Image 5"
           />
-          <img
+          <Image
             src="Images\Rectangle-1245-1.jpg.png"
             alt="Gallery Image 6"
           />
